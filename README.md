@@ -1,7 +1,5 @@
 # Can humans fake randomness?
 
-Project by: Olga Graf, Anshuman Gupta, Akash Reddy, Karthik Balaji.
-
 The concept of randomness emerges often in our daily lives as well as in many professional fields including ML and AI. Yet humans are known to be struggling with the deep understanding of randomness. This manifests itself in the form of well-known cognitive biases, such as gambler's fallacy and many others. E.g., in response to complaints from customers, iTunes' shuffle feature was made less random in order to make it feel more random.
 Our inability to critically assess randomness has gained attention of many researchers and provoked numerous studies including those by the Nobel Prize-winning economist Daniel Kahneman.
 
